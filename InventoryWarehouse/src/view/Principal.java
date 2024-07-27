@@ -4,7 +4,7 @@ package view;
 import controller.GerenciamentoLogin;
 
 
-public class Principal extends GerenciamentoLogin{
+public class Principal extends GerenciamentoLogin{ //Menu principal
 
 public static void main(String[] args) {
 		
