@@ -11,6 +11,7 @@ public class Vendedor {
 	private String cpf;
 	
 	private Integer idade;
+	private Integer idade2;
 	
 	public Vendedor(String nome, String cpf, Integer idade) {
 		super();
